@@ -1,0 +1,147 @@
+
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/7ypNcs5/Rectangle-4284.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0d5bff",
+        "card_bg": "#f2f6ff",
+        "title_btn":"#c2d5ff",
+        "text_and_button_bg": "#0d5bff",
+        "description": "This is the description for Product 1.",
+        "price": 290.00
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/0sKkv3h/Rectangle-4288.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#ff444a",
+        "card_bg": "#fff6f6",
+        "title_btn":"#ffd2d4",
+        "text_and_button_bg": "#ff444a",
+        "description": "This is the description for Product 2.",
+        "price":290.00
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/KFJSQ3n/Rectangle-4288-1.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#96cf68",
+        "card_bg": "#f8fcf5",
+        "title_btn":"#dff0d1",
+        "text_and_button_bg": "#96cf68",
+        "description": "This is the description for Product 3.",
+        "price": 290.00
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/VBdSD3J/Rectangle-4284-3.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#f9805b",
+        "card_bg": "#fff8f6",
+        "title_btn":"#feddd3",
+        "text_and_button_bg": "#f9805b",
+        "description": "This is the description for Product 3.",
+        "price": 290.00
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/VBdSD3J/Rectangle-4284-3.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#f9805b",
+        "card_bg": "#fff8f6",
+        "title_btn":"#feddd3",
+        "text_and_button_bg": "#f9805b",
+        "description": "This is the description for Product 3.",
+        "price": 290.00
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/KFJSQ3n/Rectangle-4288-1.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#96cf68",
+        "card_bg": "#f8fcf5",
+        "title_btn":"#dff0d1",
+        "text_and_button_bg": "#96cf68",
+        "description": "This is the description for Product 3.",
+        "price": 290.00
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/0sKkv3h/Rectangle-4288.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#ff444a",
+        "card_bg": "#fff6f6",
+        "title_btn":"#c2d5ff",
+        "text_and_button_bg": "#ff444a",
+        "description": "This is the description for Product 2.",
+        "price":290.00
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/7ypNcs5/Rectangle-4284.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0d5bff",
+        "card_bg": "#d9e5ff",
+        "title_btn":"#c2d5ff",
+        "text_and_button_bg": "#0d5bff",
+        "description": "This is the description for Product 1.",
+        "price": 290.00
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/7ypNcs5/Rectangle-4284.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0d5bff",
+        "card_bg": "#d9e5ff",
+        "title_btn":"#c2d5ff",
+        "text_and_button_bg": "#0d5bff",
+        "description": "This is the description for Product 1.",
+        "price": 290.00
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/0sKkv3h/Rectangle-4288.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#ff444a",
+        "card_bg": "#fff6f6",
+        "title_btn":"#c2d5ff",
+        "text_and_button_bg": "#ff444a",
+        "description": "This is the description for Product 2.",
+        "price":290.00
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/KFJSQ3n/Rectangle-4288-1.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#96cf68",
+        "card_bg": "#f8fcf5",
+        "title_btn":"#dff0d1",
+        "text_and_button_bg": "#96cf68",
+        "description": "This is the description for Product 3.",
+        "price": 290.00
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/VBdSD3J/Rectangle-4284-3.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#f9805b",
+        "card_bg": "#fff8f6",
+        "title_btn":"#feddd3",
+        "text_and_button_bg": "#f9805b",
+        "description": "This is the description for Product 3.",
+        "price": 290.00
+    }
+]
